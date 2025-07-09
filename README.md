@@ -1,24 +1,22 @@
-# Proyecto_Preferencias_musicales_en_dos_ciudades
+# Analysis of Music Preferences in Two Cities
 
-## Introducción 
-Como analista de datos, tu trabajo consiste en analizar datos para extraer información valiosa y tomar decisiones basadas en ellos. Esto implica diferentes etapas, como la descripción general de los datos, el preprocesamiento y la prueba de hipótesis.
+## Introduction
+The objective of the project is to analyze data to extract valuable information and make decisions based on it. This involves different stages, such as data overview, preprocessing, and hypothesis testing.
 
-Siempre que investigamos, necesitamos formular hipótesis que después podamos probar. A veces aceptamos estas hipótesis; otras veces, las rechazamos. Para tomar las decisiones correctas, una empresa debe ser capaz de entender si está haciendo las suposiciones correctas.
+In this project, the music preferences of the cities of Springfield and Shelbyville are compared. Real-world online music streaming data will be studied to test the hypothesis below and compare user behavior in these two cities.
 
-En este proyecto, compararás las preferencias musicales de las ciudades de Springfield y Shelbyville. Estudiarás datos reales de transmisión de música online para probar la hipótesis a continuación y comparar el comportamiento de los usuarios y las usuarias de estas dos ciudades.
+## Objective:
+Hypothesis Testing:
 
-## Objetivo:
-Prueba la hipótesis:
+User activity differs by day of the week and by city.
 
-La actividad de los usuarios y las usuarias difiere según el día de la semana y dependiendo de la ciudad.
+## Stages
+The data will be examined before testing the hypothesis.
+Data quality will be assessed, and the extent of the issues will be analyzed. Then, during data preprocessing, the most critical issues will be addressed.
 
-## Etapas
-Los datos del comportamiento del usuario se almacenan en el archivo /datasets/music_project_en.csv. No hay ninguna información sobre la calidad de los datos, así que necesitarás examinarlos antes de probar la hipótesis.
+#### The project will consist of three stages:
+1. Data Description
+2. Data preprocessing.
+3. Hypothesis testing.
 
-Primero, evaluarás la calidad de los datos y verás si los problemas son significativos. Entonces, durante el preprocesamiento de datos, tomarás en cuenta los problemas más críticos.
-
-Tu proyecto consistirá en tres etapas:
-
-Descripción de los datos.
-Preprocesamiento de datos.
-Prueba de hipótesis.
+**Explore the details in the [complete project](https://github.com/alorubio/Proyecto_Preferencias_musicales_en_dos_ciudades/blob/6c2b3ed8745efa5dbed46ed8bad974798b7cbd20/Proyecto_1.ipynb)
